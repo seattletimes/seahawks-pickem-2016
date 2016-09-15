@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "loose-spread"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/seahawks-pick-em"
+    }
+  },
+  "title": "Seahawks Pick 'Em 2015-2016",
+  "description": "Seattle Times sports writers and a celebrity guesser predict the score before every Seahawks game.",
+  "url": "http://projects.seattletimes.com/2015/seahawks-pick-em/",
+  "slug": "",
+  "tags": ["football", "seahawks", "predictions", "seattle", "season"],
+  "image": "http://projects.seattletimes.com/2015/seahawks-pick-em/assets/seahawkseaglesLOK1.jpg",
+  "production": true,
+  "embedded": false,
+  "sheets": ["1pLcwfcYZRlUuIz27SUggKoSqYV28mCWHtCU1eHXk6qo"]
+}
